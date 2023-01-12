@@ -1,4 +1,4 @@
-### Olá! Sou Hiago e seja bem vindo ao meu rep Git🤠🖥️
+### 🤠Olá! Sou Hiago e seja bem vindo ao meu perfil!🖥️
 
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiago_rsz)
 [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Hiago.AE.999)
@@ -6,7 +6,7 @@
 
 ![ Hiago Souza GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HiagoLBP&show_icons=true&theme=dracula)
 
-### Tecnologias que estou estudando no dia a dia🌠
+### 🛠Tecnologias que estou estudando no dia a dia🌠
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
