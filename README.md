@@ -38,6 +38,3 @@ Bem vindo(a) ao meu perfil. Meu nome é ***Hiago***. Atualmente tenho 18 anos e 
 ](#n)
 
 ---
-
-![whitebeard-edward-newgate](https://user-images.githubusercontent.com/122476390/212482908-bde9c178-56c7-4785-b9b1-b2445a6a5d9f.gif)
-
