@@ -19,9 +19,9 @@ Bem vindo(a) ao meu perfil. Meu nome é ***Hiago***. Atualmente tenho 18 anos e 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=9400D3"> 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=9400D3"> 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=9400D3"> 
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=9400D3"> 
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white&color=9400D3"> 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=9400D3"> 
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=9400D3"> 
+](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
   
