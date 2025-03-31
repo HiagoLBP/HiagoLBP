@@ -2,7 +2,8 @@
 
 ### Olá Dev!
 
-Bem vindo(a) ao meu perfil. Meu nome é ***Hiago***. Atualmente tenho 18 anos e curso **Informática para Internet** no **Instituto Federal Baiano - Campus Guanambi**. Vamos codar juntos?
+Bem vindo(a) ao meu perfil. Meu nome é ***Hiago***. Atualmente tenho 21 anos e sou formado no curso **Informática para Internet** no **Instituto Federal Baiano - Campus Guanambi**. 
+Atualmente sou estudante do curso de Ánalise e Desenvolvimento de Sistemas **IFBaiano - Campus Guanambi**  
 
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=9400D3
 )](https://www.instagram.com/hiago_rsz)
@@ -20,8 +21,7 @@ Bem vindo(a) ao meu perfil. Meu nome é ***Hiago***. Atualmente tenho 18 anos e 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=9400D3"> 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=9400D3"> 
     <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=9400D3"> 
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=9400D3"> 
-](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=9400D3">
 
 ---
   
